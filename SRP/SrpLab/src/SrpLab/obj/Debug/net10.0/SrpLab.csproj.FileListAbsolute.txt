@@ -1,0 +1,12 @@
+E:\My Files\Assisgments\submission6\MohamedOsman30-OOP-Assignment-2\SRP\SrpLab\src\SrpLab\bin\Debug\net10.0\SrpLab.deps.json
+E:\My Files\Assisgments\submission6\MohamedOsman30-OOP-Assignment-2\SRP\SrpLab\src\SrpLab\bin\Debug\net10.0\SrpLab.dll
+E:\My Files\Assisgments\submission6\MohamedOsman30-OOP-Assignment-2\SRP\SrpLab\src\SrpLab\bin\Debug\net10.0\SrpLab.pdb
+E:\My Files\Assisgments\submission6\MohamedOsman30-OOP-Assignment-2\SRP\SrpLab\src\SrpLab\obj\Debug\net10.0\SrpLab.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Files\Assisgments\submission6\MohamedOsman30-OOP-Assignment-2\SRP\SrpLab\src\SrpLab\obj\Debug\net10.0\SrpLab.AssemblyInfoInputs.cache
+E:\My Files\Assisgments\submission6\MohamedOsman30-OOP-Assignment-2\SRP\SrpLab\src\SrpLab\obj\Debug\net10.0\SrpLab.AssemblyInfo.cs
+E:\My Files\Assisgments\submission6\MohamedOsman30-OOP-Assignment-2\SRP\SrpLab\src\SrpLab\obj\Debug\net10.0\SrpLab.csproj.CoreCompileInputs.cache
+E:\My Files\Assisgments\submission6\MohamedOsman30-OOP-Assignment-2\SRP\SrpLab\src\SrpLab\obj\Debug\net10.0\SrpLab.sourcelink.json
+E:\My Files\Assisgments\submission6\MohamedOsman30-OOP-Assignment-2\SRP\SrpLab\src\SrpLab\obj\Debug\net10.0\SrpLab.dll
+E:\My Files\Assisgments\submission6\MohamedOsman30-OOP-Assignment-2\SRP\SrpLab\src\SrpLab\obj\Debug\net10.0\refint\SrpLab.dll
+E:\My Files\Assisgments\submission6\MohamedOsman30-OOP-Assignment-2\SRP\SrpLab\src\SrpLab\obj\Debug\net10.0\SrpLab.pdb
+E:\My Files\Assisgments\submission6\MohamedOsman30-OOP-Assignment-2\SRP\SrpLab\src\SrpLab\obj\Debug\net10.0\ref\SrpLab.dll
