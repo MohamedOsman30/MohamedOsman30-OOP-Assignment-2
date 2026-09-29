@@ -1,0 +1,15 @@
+E:\My Files\Assisgments\submission6\MohamedOsman30-OOP-Assignment-2\Inheritance\src\obj\Debug\net10.0\LibrarySystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Files\Assisgments\submission6\MohamedOsman30-OOP-Assignment-2\Inheritance\src\obj\Debug\net10.0\LibrarySystem.AssemblyInfoInputs.cache
+E:\My Files\Assisgments\submission6\MohamedOsman30-OOP-Assignment-2\Inheritance\src\obj\Debug\net10.0\LibrarySystem.AssemblyInfo.cs
+E:\My Files\Assisgments\submission6\MohamedOsman30-OOP-Assignment-2\Inheritance\src\obj\Debug\net10.0\LibrarySystem.csproj.CoreCompileInputs.cache
+E:\My Files\Assisgments\submission6\MohamedOsman30-OOP-Assignment-2\Inheritance\src\obj\Debug\net10.0\LibrarySystem.sourcelink.json
+E:\My Files\Assisgments\submission6\MohamedOsman30-OOP-Assignment-2\Inheritance\src\bin\Debug\net10.0\LibrarySystem.exe
+E:\My Files\Assisgments\submission6\MohamedOsman30-OOP-Assignment-2\Inheritance\src\bin\Debug\net10.0\LibrarySystem.deps.json
+E:\My Files\Assisgments\submission6\MohamedOsman30-OOP-Assignment-2\Inheritance\src\bin\Debug\net10.0\LibrarySystem.runtimeconfig.json
+E:\My Files\Assisgments\submission6\MohamedOsman30-OOP-Assignment-2\Inheritance\src\bin\Debug\net10.0\LibrarySystem.dll
+E:\My Files\Assisgments\submission6\MohamedOsman30-OOP-Assignment-2\Inheritance\src\bin\Debug\net10.0\LibrarySystem.pdb
+E:\My Files\Assisgments\submission6\MohamedOsman30-OOP-Assignment-2\Inheritance\src\obj\Debug\net10.0\LibrarySystem.dll
+E:\My Files\Assisgments\submission6\MohamedOsman30-OOP-Assignment-2\Inheritance\src\obj\Debug\net10.0\refint\LibrarySystem.dll
+E:\My Files\Assisgments\submission6\MohamedOsman30-OOP-Assignment-2\Inheritance\src\obj\Debug\net10.0\LibrarySystem.pdb
+E:\My Files\Assisgments\submission6\MohamedOsman30-OOP-Assignment-2\Inheritance\src\obj\Debug\net10.0\LibrarySystem.genruntimeconfig.cache
+E:\My Files\Assisgments\submission6\MohamedOsman30-OOP-Assignment-2\Inheritance\src\obj\Debug\net10.0\ref\LibrarySystem.dll

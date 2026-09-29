@@ -1,0 +1,12 @@
+E:\My Files\Assisgments\submission6\MohamedOsman30-OOP-Assignment-2\DesignPatterns\src\PatternsLab\bin\Debug\net10.0\PatternsLab.deps.json
+E:\My Files\Assisgments\submission6\MohamedOsman30-OOP-Assignment-2\DesignPatterns\src\PatternsLab\bin\Debug\net10.0\PatternsLab.dll
+E:\My Files\Assisgments\submission6\MohamedOsman30-OOP-Assignment-2\DesignPatterns\src\PatternsLab\bin\Debug\net10.0\PatternsLab.pdb
+E:\My Files\Assisgments\submission6\MohamedOsman30-OOP-Assignment-2\DesignPatterns\src\PatternsLab\obj\Debug\net10.0\PatternsLab.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Files\Assisgments\submission6\MohamedOsman30-OOP-Assignment-2\DesignPatterns\src\PatternsLab\obj\Debug\net10.0\PatternsLab.AssemblyInfoInputs.cache
+E:\My Files\Assisgments\submission6\MohamedOsman30-OOP-Assignment-2\DesignPatterns\src\PatternsLab\obj\Debug\net10.0\PatternsLab.AssemblyInfo.cs
+E:\My Files\Assisgments\submission6\MohamedOsman30-OOP-Assignment-2\DesignPatterns\src\PatternsLab\obj\Debug\net10.0\PatternsLab.csproj.CoreCompileInputs.cache
+E:\My Files\Assisgments\submission6\MohamedOsman30-OOP-Assignment-2\DesignPatterns\src\PatternsLab\obj\Debug\net10.0\PatternsLab.sourcelink.json
+E:\My Files\Assisgments\submission6\MohamedOsman30-OOP-Assignment-2\DesignPatterns\src\PatternsLab\obj\Debug\net10.0\PatternsLab.dll
+E:\My Files\Assisgments\submission6\MohamedOsman30-OOP-Assignment-2\DesignPatterns\src\PatternsLab\obj\Debug\net10.0\refint\PatternsLab.dll
+E:\My Files\Assisgments\submission6\MohamedOsman30-OOP-Assignment-2\DesignPatterns\src\PatternsLab\obj\Debug\net10.0\PatternsLab.pdb
+E:\My Files\Assisgments\submission6\MohamedOsman30-OOP-Assignment-2\DesignPatterns\src\PatternsLab\obj\Debug\net10.0\ref\PatternsLab.dll
